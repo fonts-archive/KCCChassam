@@ -15,7 +15,7 @@ font-family: 'KCC Chassam';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KCCChassam/KCCChassam.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KCCChassam/KCCChassam.css" type="text/css"/>
 ```
 
 &nbsp;
